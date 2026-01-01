@@ -4,7 +4,7 @@ body {
   padding: 0;
   line-height: 1.6;
   font-family: 'Poppins', Arial, sans-serif;
-  background-color: lightyellow !important;
+  background-color: #FFF9C4 ! important;
   color: #333;
 
 }
@@ -504,4 +504,5 @@ footer {
   }
 
 }
+
 
